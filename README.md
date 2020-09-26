@@ -2,7 +2,7 @@ This project was, indeed, created with [Create React App](https://github.com/fac
 
 1. clone or download repo to your computer
 
-2. Open terminal, run:
+2. Open terminal in folder and run:
 
 ### `npm install`
 
