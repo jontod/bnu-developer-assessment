@@ -1,4 +1,4 @@
-This project was, indeed, created with [Create React App](https://github.com/facebook/create-react-app).
+This project was indeed created with [Create React App](https://github.com/facebook/create-react-app).
 
 1. clone or download repo to your computer
 
